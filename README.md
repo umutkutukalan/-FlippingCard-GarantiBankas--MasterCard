@@ -9,7 +9,7 @@
 * HTML5
 * CSS3
 
-### ** Projenin Amacı**:
+### **Projenin Amacı**:
 1. HTML ve CSS kullanarak önceden var olan bir tasarımı yeniden oluşturma becerisini göstermek.
 2. Kullanıcı arayüzü tasarımı ve web standartlarına uygun kod yazma yetkinliğini sergilemek.
 ---
